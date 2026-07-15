@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
-  "notes": "alpah test 2",
-  "pub_date": "2026-07-12T20:21:43+00:00",
+  "version": "0.1.8",
+  "notes": "alpah test 3",
+  "pub_date": "2026-07-14T20:21:43+00:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ2ltN29id0tRdU15WDdaVUpiMk1aWkt5Z3pPd3lReXA4dUwwV05CcitZemtSNlJZMzZkOGZkbkJXNDRuck1MTlpMM05NcVJCcmRLUHN5TmQ0Wk9UdTE2cGtQZmV3V0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTA1NTEzCWZpbGU6VEZUaGVvcnlfMC4xLjdfeDY0X2VuLVVTLm1zaQp4TmdFY3E0ZTk4MGJvQmhJK3NMRCtZK0hwVk5aZVNtWlF2NExQRFNMQVV5UVFjd0pHOTZqeFN0cUsydktXbWVwU3Q2a2F5bFlJZ2N0eXorbExsVktBdz09Cg==",
-      "url": "https://github.com/K0rnli/TFTheory-releases/releases/download/v0.1.7/tftheory_0.1.7_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ2ltN29id0tRdU5iWmtlMDM4K0tqdHo3RDBIbWxBMS9ZVHA3eVB5cHRkT2s1UXRtcFJMRDV0VDFWRUNYK04wbytac01mUHpIbi9tdXdyeElTc200UE0wRDhSNTFZTUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDc3MDQ4CWZpbGU6VEZUaGVvcnlfMC4xLjhfeDY0X2VuLVVTLm1zaQpGUDVWVmt5NHZvUXJhWHZYbWtVMTNEdDlWRjN0YXhialBobkttMktSZ0pBTFRIVERPdUorL3d4SSt0a2ppVUVvTzVvYlNXUXlvR0FqeHoxenE4QjZBUT09Cg==",
+      "url": "https://github.com/K0rnli/TFTheory-releases/releases/download/Latest/tftheory_0.1.8_x64_en-US.msi"
     }
   }
 }
